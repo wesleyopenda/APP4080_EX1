@@ -5,3 +5,7 @@ Working in groups of THREE or FOUR as listed below*,
 I.	Each member should be assigned a specific feature to work on.
 II.	Each member should collaborate and demonstrate the ability to use SCM GIT commands and GitHub repository actions.
 III.	FfggAll artifacts including specifications, designs and documentations should be uploaded and maintained within the repository.
+
+PARTS
+
+Homepage- Emma 
